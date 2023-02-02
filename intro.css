@@ -1,0 +1,15 @@
+body{
+    color: #40514E;
+}
+.top_view{
+    text-align: center;
+    margin-top: 100px;
+}
+.nav_bar{
+    text-align: right;
+    text-decoration: none;
+}
+.nav_item{
+    text-decoration: none;
+    margin: 10px;
+}
